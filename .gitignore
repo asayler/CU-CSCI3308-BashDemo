@@ -1,0 +1,7 @@
+# Editor Cruft
+*~
+
+# Test Files
+*.txt
+*.py
+*.c
